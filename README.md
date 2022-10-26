@@ -1,4 +1,4 @@
-## Excel Projects
+# Excel Projects
 *Project files are available for download in Excel folder* <br />
 
 ### [Electronic Sales Data](https://github.com/erikaloomis96/DataAnalysisPortfolio/blob/main/EXCEL/Electronics%20Sales%20Data.xlsx)
@@ -11,11 +11,11 @@
 
 ![Pivot Tables, Charts, & Slicers](https://github.com/erikaloomis96/DataAnalysisPortfolio/blob/main/Visuals/Superstore%20Pivot.png)
 
-## SQL Projects
+# SQL Projects
 
-## PowerBI Projects
+# PowerBI Projects
 
-## Python Projects
+# Python Projects
 
 ### [Stack Overflow Developer Survey Analysis](https://github.com/erikaloomis96/DataAnalysisPortfolio/blob/main/Python%20Projects/Stack%20Overflow%20Developer%20Survey%20Analysis.ipynb)
 #### Skills Demonstrated: Data Cleaning, Exploration, Query SQLite Database, Visualizations
