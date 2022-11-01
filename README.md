@@ -13,7 +13,16 @@
 
 # SQL Projects
 
+### [COVID-19 SQL Script](https://github.com/erikaloomis96/DataAnalysisPortfolio/blob/main/SQL%20Projects/Covid%20Analytics%20SQL.sql)
+#### Skills Demonstrated: Joins, CTE's, Window Functions, Aggregate Functions, Creating Views, Converting Data Types
+
 # PowerBI Projects
+*Project files are available for download in PowerBI folder* <br />
+
+### [COVID-19 Visualizations](https://github.com/erikaloomis96/DataAnalysisPortfolio/blob/main/PowerBI%20Projects/Covid%20Data%20Project.pbix)
+#### Skills Demonstrated: Basic PowerBI Functionality
+
+![Basic PowerBI Visulizations](https://github.com/erikaloomis96/DataAnalysisPortfolio/blob/main/Visuals/COVID%20Visualizations.png)
 
 # Python Projects
 
