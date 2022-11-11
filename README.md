@@ -24,6 +24,13 @@
 
 ![Basic PowerBI Visulizations](https://github.com/erikaloomis96/DataAnalysisPortfolio/blob/main/Visuals/COVID%20Visualizations.png)
 
+
+### [Data Professional Survey](https://github.com/ErikaLoomisAnalytics/DataAnalysisPortfolio/blob/main/PowerBI%20Projects/Data%20Professional%20Survey.pbix)
+#### Skills Demonstrated: Dashboarding, Report Building
+
+![Basic PowerBI Visulizations](https://github.com/ErikaLoomisAnalytics/DataAnalysisPortfolio/blob/main/Visuals/Data%20Professional%20Survey%201.png)
+![Basic PowerBI Visulizations](https://github.com/ErikaLoomisAnalytics/DataAnalysisPortfolio/blob/main/Visuals/Data%20Professional%20Survey%202.png)
+
 # Python Projects
 
 ### [Stack Overflow Developer Survey Analysis](https://github.com/erikaloomis96/DataAnalysisPortfolio/blob/main/Python%20Projects/Stack%20Overflow%20Developer%20Survey%20Analysis.ipynb)
